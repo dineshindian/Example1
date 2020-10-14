@@ -15,6 +15,8 @@
 //
 //  New branch as commit 6. 
 //
+//  New line commit 7 in branch.
+//
 
 #import "ViewController.h"
 
